@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2026-10-17 11:11+0300\n"
-"PO-Revision-Date: 2026-10-21 07:39+0000\n"
+"PO-Revision-Date: 2026-10-24 15:15+0000\n"
 "Last-Translator: Nie <tym@wrozynski.com>\n"
 "Language-Team: Polish <https://translate.revolutionarygamesstudio.com/projects/thrive/thrive-game/pl/>\n"
 "Language: pl\n"
@@ -2226,9 +2226,8 @@ msgstr "Wyrzuć wchłonięte obiekty"
 msgid "EJECT_ENGULFED_TOOLTIP"
 msgstr "Zwraca wszystkie obce ciała, które wchłonąłeś"
 
-#, fuzzy
 msgid "EMITTERS_COUNT"
-msgstr "Ilość mikrobów:"
+msgstr "Emitery:"
 
 msgid "ENABLED_MODS"
 msgstr "Włączone Mody"
@@ -2794,9 +2793,8 @@ msgstr "Nazwa Rodzaju Komórki"
 msgid "GAMETE_TYPE_ALL"
 msgstr "Nazwa Rodzaju Komórki"
 
-#, fuzzy
 msgid "GAMETE_TYPE_B"
-msgstr "Stwórz Nowy Typ Komórki"
+msgstr "B"
 
 #, fuzzy
 msgid "GAMETE_TYPE_USED_BY_PLAYER_TOOLTIP"
@@ -5240,9 +5238,8 @@ msgstr "Akson"
 msgid "ORGANELLE_AXON_DESCRIPTION"
 msgstr "Dźgaj tym inne komórki."
 
-#, fuzzy
 msgid "ORGANELLE_CATEGORY_MACROSCOPIC"
-msgstr "Wielokomórkowe"
+msgstr "Makroskopijne"
 
 #, fuzzy
 msgid "ORGANELLE_CATEGORY_MULTICELLULAR"
@@ -7118,9 +7115,8 @@ msgstr "{0}"
 msgid "THRIVEOPEDIA_WORLD_SPECIES_SEARCHTAGS"
 msgstr "Obecny Świat"
 
-#, fuzzy
 msgid "THRIVEOPEDIA_WORLD_SPECIES_TITLE"
-msgstr "Obecny Świat"
+msgstr "Gatunki"
 
 msgid "THRIVE_LICENSES"
 msgstr "Licencje \"Thrive\""
